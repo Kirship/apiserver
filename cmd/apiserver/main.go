@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/kirship/apiserver/"
+	apiserver "github.com/Kirship/apiserver/internal/app"
 )
 
 func main() {
